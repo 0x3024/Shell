@@ -1,6 +1,11 @@
 #!/bin/sh
-# 3024 - Console color setup script
-# Jan T. Sott (http://github.com/idleberg)
+
+#	Name:       3024 night
+#	Author:     Jan T. Sott (http://github.com/idleberg)
+
+#	3024 color scheme by Jan T. Sott (https://github.com/idleberg)
+#	Shell template by  Chris Kempson (https://github.com/chriskempson)
+#	Built with a modified version of Base16 Builder by Chris Kempson (https://github.com/chriskempson)
 
 color00="09/03/00" # Base 00 - Black
 color01="db/2d/20" # Base 08 - Red
